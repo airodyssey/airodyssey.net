@@ -57,8 +57,8 @@ const quotesData = `
 02;25;An aircraft which is used by wealthy people on their expense accounts, whose fares are subsidized by much poorer taxpayers.;Denis Healey, British Labour Party politician, about the Concorde.
 02;26;Just remember, if you crash because of weather, your funeral will be held on a sunny day.;Layton A. Bennett, American pilot
 02;27;Without fuel, pilots become pedestrians.;cliché
-02;29;If you want to travel on the airline system, you give up your privacy. If you want your privacy, don’t fly. Flying is voluntary.;Robert Crandall, former CEO American Airlines, April 2002
-02;28;Better safe than sorry.;19<sup>th</sup> Century proverb
+02;28;If you want to travel on the airline system, you give up your privacy. If you want your privacy, don’t fly. Flying is voluntary.;Robert Crandall, former CEO American Airlines, April 2002
+02;29;Better safe than sorry.;19<sup>th</sup> Century proverb
 03;01;I think we can build a better plane.;William Boeing, 1914 (phrase later became company’s motto)
 03;02;IFR: I Follow Roads.;cliché (<a href=/1999/12/glossary.html#i>actual meaning of IFR</a>)
 03;03;Up in the sky, look! It’s a bird! It’s a plane! It’s Superman!;Narrator, 1941 movie <em>Superman</em>
@@ -427,6 +427,7 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
+
 
 
 
