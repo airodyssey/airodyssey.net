@@ -7,7 +7,7 @@ const quotesData = `
 01;06;You can always depend on twin engine aircraft. When the first engine quits the second will surely fly you to the scene of an accident.;cliché
 01;07;Every time I fly and am forced to remove my shoes, I’m grateful <a href=https://en.wikipedia.org/wiki/Richard_Reid target=_blank>Richard Reid</a> is not known as the Underwear Bomber.;Douglas Manuel, aerospace executive, about airport security (2003)
 01;08;The strength of the turbulence is directly proportional to the temperature of your coffee.;Gunter’s Second Law of Air Travel
-01;09;Joey, have you ever been in a Turkish prison?;Captain Oveur, from the 1980 movie<em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+01;09;Joey, have you ever been in a Turkish prison?;Captain Oveur, from the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
 01;10;You cannot fly like an eagle with the wings of a wren.;William Henry Hudson, 1909, <em>Afoot in England</em>
 01;11;The airport runway is the most important main street in any town.; Norm Crabtree, former aviation director for the state of Ohio
 01;12;Once you get hooked on the airline business, it’s worse than dope.;Ed Acker, while Chairman of Air Florida
@@ -39,7 +39,7 @@ const quotesData = `
 02;07;Terminals have always been, and probably always will be the ‘bottle-necks’ of transportation, whether of ground, water, or air systems.;Harry H. Blee, US Aeronautics Branch, 1932
 02;08;Fighter pilots make movies, attack pilots make history.;cliché
 02;09;Freddie Laker<br>May be at peace with his Maker. <br>But he is persona non grata<br>With IATA.;Prince Philip, Duke of Edinburgh (Laker died Feb. 9, 2006)
-02;10;My wife was a stewardess, flying DC-3’s. That’s how we met. She knew what was going on. So when we got married, I made her a promise – the obvious one. And I’ve kept it.;Capt. Harris, 1970 movie<em><a href=/1999/12/movie-airport.html>Airport</a></em>
+02;10;My wife was a stewardess, flying DC-3’s. That’s how we met. She knew what was going on. So when we got married, I made her a promise – the obvious one. And I’ve kept it.;Capt. Harris, 1970 movie <em><a href=/1999/12/movie-airport.html>Airport</a></em>
 02;11;It’s not impacting JetBlue in any meaningful way.; Joanna Geraghty, COO and President JetBlue, regarding COVID-19 (Feb. 11, 2020)
 02;12;I did not fully understand the dread term ‘terminal illness’ until I saw Heathrow for myself.;Dennis Potter in <em>The Sunday Times</em> (June 4, 1978)
 02;13;If we went into the funeral business, people would stop dying.;Martin R. Shugrue, Vice-chairman Pan Am
@@ -72,7 +72,7 @@ const quotesData = `
 03;11;My wings are a thousand books;Gill Robb Wilson, American pilot
 03;12;Man’s flight through life is sustained by the power of his knowledge.;Austin ‘Dusty’ Miller, quote on Eagle & Fledgling statue, USAF Academy
 03;13;In thrust I trust.;cliché
-03;14;Flying a plane is no different from riding a bicycle. It’s just a lot harder to put baseball cards in the spokes.;Capt. Rex Kramer in the 1980 movie<em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+03;14;Flying a plane is no different from riding a bicycle. It’s just a lot harder to put baseball cards in the spokes.;Capt. Rex Kramer in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
 03;15;Citation 123, if you quit calling me center, I’ll quit calling you twin Cessna.;actual transmission heard at the O’Hare TRACON
 03;16;Twenty-five per cent of the passengers of almost any aircraft show white knuckles on take-off.;Sir Colin Marshall, CEO British Airways
 03;17;Talking about airplanes is a very pleasant mental disease.;Sergei Sikorsky, <em>AOPA Pilot</em> magazine (2003)
@@ -105,7 +105,7 @@ const quotesData = `
 04;13;If the Wright brothers were alive today, Wilbur would have to fire Orville to reduce costs.;Herb Kelleher, Southwest Airlines (1994)
 04;14;There are many excellent pilots who would rather do anything than land a private airplane at Newark, Cleveland, or Chicago.;<em>Aviation</em> magazine (August 1935)
 04;15;It doesn’t do any good to stand on the airplane’s brakes when you’re already on your back!;Rex Thorp
-04;16;We hope you enjoy the rest of your flight. By the way, is there anyone on board who knows how to fly a plane?;Passenger announcement in the 1980 movie<em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+04;16;We hope you enjoy the rest of your flight. By the way, is there anyone on board who knows how to fly a plane?;Passenger announcement in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
 04;17;The Wright brothers’ design allowed them to survive long enough to learn how to fly.;Michael Potts, spokesman, Beech Aircraft, <em>New York Times</em> (1984)
 04;18;We have no effective screening methods to make sure pilots are sane.;Dr. Herbert Haynes, Federal Aviation Authority
 04;19;The odds against there being a bomb on a plane are a million to one, and against two bombs a million times a million to one. Next time you fly, cut the odds and take a bomb.;Benny Hill (died Apr. 19, 1992)
@@ -168,7 +168,7 @@ const quotesData = `
 06;15;The air is the only place free from prejudices.;Bessie Coleman (became first African-American plane pilot June 15, 1921)
 06;16;Remember the first principle of wing walking. Don’t let go of something unless you have a firm grip of something else.;Dick Truly, NASA administrator (2003)
 06;17;Work hard, fly hard, play hard, and stay…;cliché
-06;18;We have clearance, Clarence./<br>Roger, Roger. What’s our vector, Victor?;Flight crew in the 1980 movie<em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+06;18;We have clearance, Clarence./<br>Roger, Roger. What’s our vector, Victor?;Flight crew in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
 06;19;I have to say that flying on Air Force One sort of spoils you for coach on a regular airline.;U.S. president Ronald Reagan
 06;20;I’ve said many times that I’d be thrilled to sell the airline to the employees and our guys said no, we’ll take all the money, anyway.;Robert L. Crandall, former president/chairman American Airlines (1997)
 06;21;Whenever competition is feasible it is, for all its imperfections, superior to regulation as a means of serving the public interest.;Alfred Kahn, airline economist and chairman CAB
@@ -216,7 +216,7 @@ const quotesData = `
 08;02;But flies an eagle flight, bold and forth on, Leaving no tract behind.;William Shakespeare, <em>Timon of Athens</em>, Act i. Sc. 1.
 08;03;When asked ‘How was your flight?’ Well, aeronautically it was a great success. Socially it left quite a bit to be desired.;Noël Coward, English playwright
 08;04;Heavier-than-air flying machines are impossible.;Lord Kelvin, President of the Royal Society (1895)
-08;05;I know, but this guy doing the flying has no airline experience at all. He’s a menace to himself and everything else in the air… Yes, birds too.;Controller in the 1980 movie<em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+08;05;I know, but this guy doing the flying has no airline experience at all. He’s a menace to himself and everything else in the air… Yes, birds too.;Controller in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
 08;06;Arial flight is one of that class of problems with which man will never be able to cope.;Simon Newcomb, Canadian astronomer (1903)
 08;07;This is one hell of a good deal for United Airlines.;Richard Ferris, Chairman United Airlines, after buying Pan Am’s Far East route network
 08;08;Listen up gentlemen, or something’s gonna happen that none of us wants to see.;actual transmission heard at the O’Hare TRACON
@@ -427,6 +427,7 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
+
 
 
 
