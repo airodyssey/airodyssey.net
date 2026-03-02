@@ -210,7 +210,7 @@ const quotesData = `
 07;27;It is clear to us all that a tyre burst alone should never cause a loss of a public-transport aircraft.;Sir Malcolm Field, head of Britain’s Civil Aviation Authority, about Concorde (2000)
 07;28;If you want more room Captain, push your seat back.;actual transmission heard at the O’Hare TRACON
 07;29;The three worst things to hear in the cockpit: The second officer says, ‘Oh shit!’ The first officer says, ‘I have an idea!’ The captain say, ‘Hey, watch this!’;anonymous
-07;30;Say, what’s a mountain goat doing way up here in a cloud bank?;Gary Larson, in a well-known (<a href=http://2.bp.blogspot.com/_eimKP-f8QwA/SIfRbFHcRbI/AAAAAAAAALs/CBhlMAdrC1M/s1600-h/FarSide+1-14.jpg><em>Far Side</em> cartoon</a>)
+07;30;Say, what’s a mountain goat doing way up here in a cloud bank?;Pilot in a <a href=http://2.bp.blogspot.com/_eimKP-f8QwA/SIfRbFHcRbI/AAAAAAAAALs/CBhlMAdrC1M/s1600-h/FarSide+1-14.jpg><em>Far Side</em> cartoon</a> by Gary Larson
 07;31;Angels can fly because they take themselves lightly.;G.K. Chesteron, <em>Orthodoxy</em> (1908)
 08;01;If a woman wants to fly, first of all she must, of course, abandon skirts and don a knickerbocker uniform.;Harriet Quimby (became the first woman in the U.S. to receive a pilot’s license on Aug. 1, 1911)
 08;02;But flies an eagle flight, bold and forth on, Leaving no tract behind.;William Shakespeare, <em>Timon of Athens</em>, Act i. Sc. 1.
@@ -427,6 +427,7 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
+
 
 
 
