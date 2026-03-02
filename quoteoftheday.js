@@ -217,7 +217,7 @@ const quotesData = `
 08;03;When asked ‘How was your flight?’ Well, aeronautically it was a great success. Socially it left quite a bit to be desired.;Noël Coward, English playwright
 08;04;Heavier-than-air flying machines are impossible.;Lord Kelvin, President of the Royal Society (1895)
 08;05;I know, but this guy doing the flying has no airline experience at all. He’s a menace to himself and everything else in the air… Yes, birds too.;Controller in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
-08;06;Arial flight is one of that class of problems with which man will never be able to cope.;Simon Newcomb, Canadian astronomer (1903)
+08;06;Aerial flight is one of that class of problems with which man will never be able to cope.;Simon Newcomb, Canadian astronomer (1903)
 08;07;This is one hell of a good deal for United Airlines.;Richard Ferris, Chairman United Airlines, after buying Pan Am’s Far East route network
 08;08;Listen up gentlemen, or something’s gonna happen that none of us wants to see.;actual transmission heard at the O’Hare TRACON
 08;09;Kansas City Center, this is Air Force One. Would you please change our call sign to SAM 27000.;Col. R. Albertazzie, following Richard Nixon’s resignation (Aug. 9 1974)
@@ -427,6 +427,7 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
+
 
 
 
