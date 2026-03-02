@@ -66,7 +66,7 @@ const quotesData = `
 03;05;Flying is not dangerous. Crashing is dangerous.;cliché
 03;06;If black boxes survive air crashes – why don’t they make the whole plane out of that stuff?;George Carlin (and <a href=https://www.straightdope.com/21342059/if-aircraft-black-boxes-are-indestructible-why-can-t-the-whole-plane-be-made-from-the-same-material target=_blank>here’s the answer</a>)
 03;07;To most people, the sky is the limit. To those who love aviation, the sky is home.;Anonymous
-03;08;Women must pay for everything. They do get more glory than men for comparable feats, But, also, women get more notoriety when they crash.;Amelia Earhart
+03;08;Women must pay for everything. They do get more glory than men for comparable feats, But, also, women get more notoriety when they crash.;Amelia Earhart (Happy <a href=https://en.wikipedia.org/wiki/International_Women%27s_Day target=_blank>International Women’s Day</a>)
 03;09;A commercial aircraft is a vehicle capable of supporting itself aerodynamically and economically at the same time.;William B. Stout, designer of the Ford Tri-Motor
 03;10;Most executives don’t have the stomach for this stuff.;Robert W. Baker, American Airlines
 03;11;My wings are a thousand books;Gill Robb Wilson, American pilot
@@ -427,6 +427,7 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
+
 
 
 
