@@ -387,7 +387,7 @@ const quotes = parseQuotes(quotesData);
 
 // Fetch Eastern Time from timeapi.io
 async function getEasternDate() {
-  const url = "https://timeapi.io/api/Time/current/zone?timeZone=America/New_York";
+  const url = "https://timeapi.io/api/Time/current/zone?timeZone=America/Toronto";
   const response = await fetch(url);
   if (!response.ok) throw new Error("Failed to fetch time");
   const data = await response.json();
@@ -427,6 +427,7 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
+
 
 
 
