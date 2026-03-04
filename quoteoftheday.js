@@ -60,7 +60,7 @@ const quotesData = `
 02;28;If you want to travel on the airline system, you give up your privacy. If you want your privacy, don’t fly. Flying is voluntary.;Robert Crandall, former CEO American Airlines (April 2002)
 02;29;Better safe than sorry.;19<sup>th</sup> Century proverb
 03;01;I think we can build a better plane.;William Boeing, 1914 (phrase later became company’s motto)
-03;02;IFR: I Follow Roads.;cliché (<a href=/1999/12/glossary.html#i>actual meaning of IFR</a>)
+03;02;<a href=/1999/12/glossary.html#i>IFR</a>: I Follow Roads.;cliché
 03;03;Up in the sky, look! It’s a bird! It’s a plane! It’s Superman!;Narrator, 1941 movie <em>Superman</em>
 03;04;Now I know what a dog feels like watching TV.;A DC-9 captain trainee attempting to check out on the ‘glass’ A320
 03;05;Flying is not dangerous. Crashing is dangerous.;cliché
@@ -427,6 +427,7 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
+
 
 
 
