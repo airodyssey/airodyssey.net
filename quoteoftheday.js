@@ -69,7 +69,7 @@ const quotesData = `
 03;08;Women must pay for everything. They do get more glory than men for comparable feats, But, also, women get more notoriety when they crash.;Amelia Earhart (Happy <a href=https://en.wikipedia.org/wiki/International_Women%27s_Day target=_blank>International Women’s Day</a>)
 03;09;A commercial aircraft is a vehicle capable of supporting itself aerodynamically and economically at the same time.;William B. Stout, designer of the Ford Tri-Motor
 03;10;Most executives don’t have the stomach for this stuff.;Robert W. Baker, American Airlines
-03;11;My wings are a thousand books;Gill Robb Wilson, American pilot
+03;11;My wings are a thousand books.;Gill Robb Wilson, American pilot
 03;12;Man’s flight through life is sustained by the power of his knowledge.;Austin ‘Dusty’ Miller, quote on Eagle & Fledgling statue, USAF Academy
 03;13;In thrust I trust.;cliché
 03;14;Flying a plane is no different from riding a bicycle. It’s just a lot harder to put baseball cards in the spokes.;Capt. Rex Kramer in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
@@ -427,6 +427,7 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
+
 
 
 
