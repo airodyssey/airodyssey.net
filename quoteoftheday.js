@@ -80,7 +80,7 @@ const quotesData = `
 03;19;The whole history of the Canadian North can be divided into two periods – before and after the aeroplane.;Hugh L. Keenleyside, Deputy Canadian Minister of Mines and Resources (1949)
 03;20;Words are heavy like rocks. They weigh you down. If birds could talk, they wouldn’t be able to fly.;Marilyn, from the TV show <em>Northern Exposure</em>
 03;21;The state of our airline industry is a national embarrassment.;Tom Plaskett, Chairman Pan Am, following the airline’s collapse
-03;22;Why is it turning?… Yes it is.;Eldar Kudrinsky, 15-year-old son of the captain of <a href=https://en.wikipedia.org/wiki/Aeroflot_Flight_593 target=_blank>Aeroflot flight 593</a> (crashed Mar. 22, 1994)
+03;22;Airplane travel is nature’s way of making you look like your passport photo.;Al Gore
 03;23;Simplicate and Add Lightness;design philosophy of Ed Heinemann, Douglas Aircraft
 03;24;A free ride and free food are two of the three things no pilot ever turns down.;Dick Rutan
 03;25;You little fool! Don’t you know it is even dangerous to look at an airplane?;Gunner Morris, advice to Ann Barton, 1938 movie <em>Test Pilot</em>
