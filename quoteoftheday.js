@@ -11,7 +11,7 @@ const quotesData = `
 01;10;You cannot fly like an eagle with the wings of a wren.;William Henry Hudson, 1909, <em>Afoot in England</em>
 01;11;The airport runway is the most important main street in any town.; Norm Crabtree, former aviation director for the state of Ohio
 01;12;Once you get hooked on the airline business, it’s worse than dope.;Ed Acker, while Chairman of Air Florida
-01;13;God, look at that thing! That don’t seem right, does it? That’s not right.;First Officer Roger Pettit, <a href=https://en.wikipedia.org/wiki/Air_Florida_Flight_90 target=_blank>Air Florida flight 90</a> (crashed Jan. 13, 1982)
+01;13;No words are adequate for this changing state of matter. Like liquids to gases or solids to liquids, from melting to freezing to vaporizing, so we soon go from Sapien to Avian.;Caroline Paul, American writer, <em>Why Fly</em>
 01;14;Be humble for you are made of earth. Be noble for you are made of stars.;Serbian proverb
 01;15;Daddy, the plane turned into a boat.;Sophia Sosa, 4-year-old passenger of <a href=https://en.wikipedia.org/wiki/US_Airways_Flight_1549 target=_blank>US Airways flight 1549</a> after ditching (Jan. 15, 2009)
 01;16;The greatest sin of airline management of the last 22 years is to say: ‘It’s all labor’s fault.’;Donald Carty, Chairman and CEO American Airlines (2002)
@@ -100,7 +100,7 @@ const quotesData = `
 04;08;Hold fast to dreams, for if dreams die life is a broken winged bird that cannot fly.;Langston Hughes, American poet
 04;09;You’re gonna have to key the mike. I can’t see you when you nod your head.;actual transmission heard at the O’Hare TRACON
 04;10;If back then, we knew everything we know now, we would have made different decisions.;Dennis Muilenburg, CEO of Boeing to the U.S. Congress about the 737 MAX
-04;11;Do you hear the rain? Do you hear the rain?;Jessica Dubroff, 7-year-old pilot (shortly before crashing Apr. 11, 1996)
+04;11;The quality of food is in inverse proportion to a dining room’s altitude, especially atop bank and hotel buildings (airplanes are an extreme example).;Bryan Miller, restaurant critic for the <em>The New York Times</em>
 04;12;There is no flying without wings.;French proverb
 04;13;If the Wright brothers were alive today, Wilbur would have to fire Orville to reduce costs.;Herb Kelleher, Southwest Airlines (1994)
 04;14;There are many excellent pilots who would rather do anything than land a private airplane at Newark, Cleveland, or Chicago.;<em>Aviation</em> magazine (August 1935)
@@ -130,7 +130,7 @@ const quotesData = `
 05;08;When asked by someone how much money flying takes: Why, all of it!;Gordon Baxter, Texas radio personality
 05;09;I don’t like flying because I’m afraid of crashing into a large mountain. I don’t think Dramamine is going to help.;Kaffie, 1992 movie <em>A Few Good Men</em>
 05;10;A terminal forecast is a horoscope with numbers.;cliché
-05;11;Critter 592, we need the, uh, closest airport available.;First Officer Richard Hazen, <a href=https://en.wikipedia.org/wiki/ValuJet_Flight_592 target=_blank>ValuJet flight 592</a> (last recorded words before crashing into Everglades May 11, 1996)
+05;11;Planes are a good place to diet.;Wolfgang Puck, Austrian-American chef and restaurateur
 05;12;No one expects Braniff to go broke. No major U.S. carrier ever has.;<em>The Wall Street Journal</em>, July 30, 1980 (Braniff International Airways ceased operations May 12, 1982)
 05;13;Flight Reservation Systems decide whether or not you exist. If your information isn’t in their database, then you simply don’t get to go anywhere.;Arthur Miller, American actor and writer
 05;14;Airplane travel is nature’s way of making you look like your passport photo.;Al Gore
@@ -145,7 +145,7 @@ const quotesData = `
 05;23;It’s not a testosterone-driven industry any longer. Success is making money, not in the size of the airline.;Gordon Bethune,Chairman/CEO Continental Airlines (1996)
 05;24;It’s either expensive or it’s crappy.;JetBlue spokesman about airline food, <em>New York Times</em> (2002)
 05;25;Providence has given to the French the empire of the land, to the English that of the sea, and to the Germans that of the air.;Jean Paul Richter, quoted by Thomas Carlyle, <em>Edinburgh Review</em> (1827)
-05;26;Reverser’s deployed!;First Officer Josef Thurner, <a href=https://en.wikipedia.org/wiki/Lauda_Air_Flight_004 target=_blank>Lauda Air flight 004</a> (last recorded words, crashed May 26, 1991)
+05;26;When once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been, and there you will always long to return.;John Secondari, American author
 05;27;Nothing flies without fuel, so let’s start with some coffee.;cliché
 05;28;The most dangerous thing about flying is the risk of starving to death.;Dick Depew, American pilot
 05;29;Its operation in a world beset by fuel and energy crises makes no sense at all.;Senator Cranston of California, about the Concorde (1974)
@@ -176,7 +176,7 @@ const quotesData = `
 06;23;Anything that is white is sweet. Anything that is brown is meat. Anything that is grey, don’t eat.;Stephen Sondheim, about airline food, <em>Do I hear a Waltz</em> (1965)
 06;24;Ladies and gentleman, this is your captain speaking. We have a small problem. All 4 engines have stopped. We are doing our damnedest to get them going again. I trust you are not in too much distress.;Capt. Eric Moody, <a href=https://en.wikipedia.org/wiki/British_Airways_Flight_009>British Airways flight 009</a> (landed safely June 24, 1982)
 06;25;Trust your captain …. but keep your seatbelt securely fastened.;cliché
-06;26;Yes – don’t worry;Capt. Michel Asseline, <a href=https://en.wikipedia.org/wiki/Air_France_Flight_296Q target=_blank>Air France flight 296Q</a> (last words, in response to copilot’s concern, crashed June 26, 1988)
+06;26;What I like best about flying is the freedom it affords to navigate an ocean of air and see the earth from a wider perspective. I never tire of the beauty of the earth by day or the sky by night.;Chesley 'Sully' Sullenbeger
 06;27;Code-sharing, alliances, and connections are all about ‘how do we screw the poor customer for more money?’;Michael O’Leary, Ryanair (2002)
 06;28;I really don’t know one plane from the other. To me they are just marginal costs with wings.;Alfred Kahn, American economist (1977)
 06;29;If you are in trouble anywhere in the world, an airplane can fly over and drop flowers, but a helicopter can land and save your life.;Igor Sikorsky, American aviator (1947)
@@ -244,7 +244,7 @@ const quotesData = `
 08;30;As a businessman, Frank Lorenzo gives capitalism a bad name.;William F. Buckley
 08;31;That’s the best way to cross the Atlantic.;Sir Arthur Whitten Brown, first nonstop across the Atlantic, upon landing (June 15, 1919)
 09;01;British Airways believes that it is intrinsically deceptive for two carriers to share a designator code.;British Airways, comment on PDSR-85, Notice of Proposed Rulemaking, Docket 42199 (1984)
-09;02;And we are declaring emergency now, Swissair 111;Crew of <a href=https://en.wikipedia.org/wiki/Swissair_Flight_111 target=_blank>Swissair flight 111</a> (last recorded words before crashing Sep. 2, 1998)
+09;02;The air is the only place free from prejudices.;Bessie Coleman, first African-American female pilot
 09;03;Air Force 45, it appears your engine has… oh, disregard… I see you’ve already ejected.;actual transmission heard at the O’Hare TRACON
 09;04;Chicks dig us, and guys think we’re cool.;Tom Krizek, airline captain
 09;05;He’s a nut job, but a focused nut job.;Robert Land, JetBlue government affairs director, about boss David Neeleman (2001)
@@ -267,7 +267,7 @@ const quotesData = `
 09;22;Flight by machines heavier than air is unpractical and insignificant, if not utterly impossible.;Simon Newcomb (1902)
 09;23;I happened to be the man on the spot, but any of the rest of the fellows would have done what I did.;Jack Knight, first night mail flight, which was part of a record-setting transcontinental airmail relay
 09;24;The world is divided into two kind of people: normal, intelligent, sensitive people with some breadth of imagination, and people who aren’t the least bit afraid of flying.;Layne Ridley, <em>White Knuckles</em> (1987)
-09;25;Ma, I love yah.;unidentified flight deck person, <a href=https://en.wikipedia.org/wiki/Pacific_Southwest_Airlines_Flight_182 target=_blank>PSA flight 182</a> (last recorded words, crashed Sep. 25, 1978)
+09;25;A mile of highway will take you a mile. A mile of runway will take you anywhere.;unknown
 09;26;After the ship has sunk, everyone knows how she might have been saved.;Italian proverb
 09;27;Arriba, siempre arriba. (Higher, ever higher.);Jorge Chavez, Peruvian aviator (last words after crashing Sep. 27, 1910)
 09;28;We are long-term players in the industry. We’re not just crazy and emotional. We try to be logical business managers.;Frank Lorenzo
@@ -362,7 +362,7 @@ const quotesData = `
 12;26;The Boeing 747 is so big that it has been said that it does not fly… the earth merely drops out from under it.;Captain Ned Wilson, Pan Am
 12;27;The human bird shall take his first flight, filling the world with amazement, all writings with his fame, and bringing eternal glory to he nest whence he sprang.;Leonardo da Vinci
 12;28;If it flies, floats, or f…, it’s always cheaper to rent than to buy.;cliché
-12;29;Hey – what’s happening here?;Capt. Robert Loft, <a href=https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401 target=_blank>Eastern Air Lines flight 401</a> (last words before crashing Dec. 29, 1972)
+12;29;Clearly this was an out of the ordinary landing, but I was just doing my job and any one of our pilots would have taken the same actions.;Capt. David Williams, Virgin Atlantic flight 43 (landed safely Dec. 29, 2014)
 12;30;This is the most important aviation development since Lindbergh’s flight. In one fell swoop, we have shrunken the earth.;Juan Trippe, founder of Pan Am on the introduction of jet aircraft
 12;31;Any landing you can walk away from is a good one!;Gerald R. Massie, U.S. Army Air Force photographer
 `;
@@ -427,19 +427,3 @@ async function displayQuoteOfTheDay() {
 
 // Run on page load
 displayQuoteOfTheDay();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
