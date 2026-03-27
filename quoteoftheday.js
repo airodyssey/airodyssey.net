@@ -331,7 +331,7 @@ const quotesData = `
 11;25;The owner’s guide that comes with a $500 refrigerator makes more sense than the one that comes with a $50 million airliner.;cliché
 11;26;If you don’t get in that plane you’ll regret it. Maybe not today, maybe not tomorrow, but soon and for the rest of your life.;Rick Blaine, 1942 movie <em>Casablanca</em>
 11;27;These days no one can make money on the goddamn airline business. The economics represent sheer hell.;C.R. Smith, President American Airlines
-11;28;XXXXX
+11;28;A great weapon for peace, competing with intercontinental missiles for mankind’s destiny.;Juan Trippe, Pan Am’s founder, on the Boeing 747
 11;29;The similarity between air traffic controllers and pilots? If a pilot screws up, the pilot dies. If ATC screws up, the pilot dies.;cliché
 11;30;Anybody can jump a motorcycle. The trouble begins when you try to land it.;Evel Knievel, stunt performer (passed away Nov. 30, 2007)
 12;01;ATTENTION! Aircraft Designers, Operators, Airmen, Managers. Anxiety never disappears in a human being in an airplane. It merely remains dormant when there is no cause to arouse it. Our challenge is to keep it forever dormant.;Harold Harris, VP Pan Am (circa 1950)
