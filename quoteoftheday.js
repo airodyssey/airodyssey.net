@@ -85,7 +85,7 @@ const quotesData = `
 03;24;A free ride and free food are two of the three things no pilot ever turns down.;Dick Rutan
 03;25;You little fool! Don’t you know it is even dangerous to look at an airplane?;Gunner Morris, advice to Ann Barton, 1938 movie <em>Test Pilot</em>
 03;26;For a plane to fly well, it must be beautiful.;Marcel Dassault, founder of Dassault Aviation
-03;27;Did he not clear the runway, that Pan American?;Flight engineer William Schreuder, KLM (shortly before the <a href='https://en.wikipedia.org/wiki/Tenerife_airport_disaster' target='_blank' rel='noopener noreferrer'>Tenerife collision</a>, Mar. 27, 1977)
+03;27;Pilots take no special joy in walking. Pilots like flying.;Neil Armstrong
 03;28;You can be in London at 10 o’clock and in New York at 10 o’clock. I have never found another way of being in two places at once.;Sir David Frost, British journalist and Concorde regular
 03;29;I didn’t start out to chart the skies: it’s just no one had done it before.;E. B. Jeppesen, founder of namesake company of aviation charts
 03;30;Aviation is for grown men, alert, strong and above all capable of endurance.;Charles Turner, holder of many early aviation records
