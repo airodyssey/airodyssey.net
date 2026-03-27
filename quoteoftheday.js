@@ -5,17 +5,17 @@ const quotesData = `
 01;04;There shall be wings! If the accomplishment be not for me, ‘tis for some other. The spirit cannot die and man, who shall know all and shall have wings.;Leonardo da Vinci
 01;05;A very friendly boom, like a pair of gleeful handclaps.;Sir James Lighthill, UK government scientific advisor about the Concorde’s supersonic noise profile (1971)
 01;06;You can always depend on twin engine aircraft. When the first engine quits the second will surely fly you to the scene of an accident.;cliché
-01;07;Every time I fly and am forced to remove my shoes, I’m grateful <a href=https://en.wikipedia.org/wiki/Richard_Reid target=_blank>Richard Reid</a> is not known as the Underwear Bomber.;Douglas Manuel, aerospace executive, about airport security (2003)
+01;07;Every time I fly and am forced to remove my shoes, I’m grateful <a href='https://en.wikipedia.org/wiki/Richard_Reid' target='_blank' rel='noopener noreferrer'>Richard Reid</a> is not known as the Underwear Bomber.;Douglas Manuel, aerospace executive, about airport security (2003)
 01;08;The strength of the turbulence is directly proportional to the temperature of your coffee.;Gunter’s Second Law of Air Travel
-01;09;Joey, have you ever been in a Turkish prison?;Captain Oveur, from the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+01;09;Joey, have you ever been in a Turkish prison?;Captain Oveur, from the 1980 movie <em><a href='/2005/08/movie-airplane.html'>Airplane!</a></em>
 01;10;You cannot fly like an eagle with the wings of a wren.;William Henry Hudson, 1909, <em>Afoot in England</em>
 01;11;The airport runway is the most important main street in any town.; Norm Crabtree, former aviation director for the state of Ohio
 01;12;Once you get hooked on the airline business, it’s worse than dope.;Ed Acker, while Chairman of Air Florida
 01;13;No words are adequate for this changing state of matter. Like liquids to gases or solids to liquids, from melting to freezing to vaporizing, so we soon go from Sapien to Avian.;Caroline Paul, American writer, <em>Why Fly</em>
 01;14;Be humble for you are made of earth. Be noble for you are made of stars.;Serbian proverb
-01;15;Daddy, the plane turned into a boat.;Sophia Sosa, 4-year-old passenger of <a href=https://en.wikipedia.org/wiki/US_Airways_Flight_1549 target=_blank>US Airways flight 1549</a> after ditching (Jan. 15, 2009)
+01;15;Daddy, the plane turned into a boat.;Sophia Sosa, 4-year-old passenger of <a href='https://en.wikipedia.org/wiki/US_Airways_Flight_1549' target='_blank' rel='noopener noreferrer'>US Airways flight 1549</a> after ditching (Jan. 15, 2009)
 01;16;The greatest sin of airline management of the last 22 years is to say: ‘It’s all labor’s fault.’;Donald Carty, Chairman and CEO American Airlines (2002)
-01;17;This man deserves a medal as big as a frying pan. He has done a fantastic job.;unnamed airport worker, about Capt. Burkill of <a href=https://en.wikipedia.org/wiki/British_Airways_Flight_38 target=_blank>British Airways flight 38</a> (crash landed Jan 17, 2008, no deaths)
+01;17;This man deserves a medal as big as a frying pan. He has done a fantastic job.;unnamed airport worker, about Capt. Burkill of <a href='https://en.wikipedia.org/wiki/British_Airways_Flight_38' target='_blank' rel='noopener noreferrer'>British Airways flight 38</a> (crash landed Jan 17, 2008, no deaths)
 01;18;To propel a dirigible balloon through the air is like pushing a candle through a brick wall.;Alberto Santos-Dumont, regarding Zepplin’s Airship  
 01;19;That is the trouble with flying: We always have to return to airports. Thank of how much fun flying would be if we didn’t have to return to airports.;Henry Mintzberg, <em>Why I Hate Flying</em>
 01;20;So I accept these awards on behalf of the cake bakers and all of those other women who can do some things quite as important, if not more important, than flying;Amelia Earhart  
@@ -39,7 +39,7 @@ const quotesData = `
 02;07;Terminals have always been, and probably always will be the ‘bottle-necks’ of transportation, whether of ground, water, or air systems.;Harry H. Blee, US Aeronautics Branch, 1932
 02;08;Fighter pilots make movies, attack pilots make history.;cliché
 02;09;Freddie Laker<br>May be at peace with his Maker. <br>But he is persona non grata<br>With IATA.;Prince Philip, Duke of Edinburgh (Laker died Feb. 9, 2006)
-02;10;My wife was a stewardess, flying DC-3’s. That’s how we met. She knew what was going on. So when we got married, I made her a promise – the obvious one. And I’ve kept it.;Capt. Harris, 1970 movie <em><a href=/1999/12/movie-airport.html>Airport</a></em>
+02;10;My wife was a stewardess, flying DC-3’s. That’s how we met. She knew what was going on. So when we got married, I made her a promise – the obvious one. And I’ve kept it.;Capt. Harris, 1970 movie <em><a href='/1999/12/movie-airport.html'>Airport</a></em>
 02;11;It’s not impacting JetBlue in any meaningful way.; Joanna Geraghty, COO and President JetBlue, regarding COVID-19 (Feb. 11, 2020)
 02;12;I did not fully understand the dread term ‘terminal illness’ until I saw Heathrow for myself.;Dennis Potter in <em>The Sunday Times</em> (June 4, 1978)
 02;13;If we went into the funeral business, people would stop dying.;Martin R. Shugrue, Vice-chairman Pan Am
@@ -60,19 +60,19 @@ const quotesData = `
 02;28;If you want to travel on the airline system, you give up your privacy. If you want your privacy, don’t fly. Flying is voluntary.;Robert Crandall, former CEO American Airlines (April 2002)
 02;29;Better safe than sorry.;19<sup>th</sup> Century proverb
 03;01;I think we can build a better plane.;William Boeing, 1914 (phrase later became company’s motto)
-03;02;<a href=/1999/12/glossary.html#i>IFR</a>: I Follow Roads.;cliché
+03;02;<a href='/1999/12/glossary.html#i'>IFR</a>: I Follow Roads.;cliché
 03;03;Up in the sky, look! It’s a bird! It’s a plane! It’s Superman!;Narrator, 1941 movie <em>Superman</em>
 03;04;Now I know what a dog feels like watching TV.;A DC-9 captain trainee attempting to check out on the ‘glass’ A320
 03;05;Flying is not dangerous. Crashing is dangerous.;cliché
-03;06;If black boxes survive air crashes – why don’t they make the whole plane out of that stuff?;George Carlin (and <a href=https://www.straightdope.com/21342059/if-aircraft-black-boxes-are-indestructible-why-can-t-the-whole-plane-be-made-from-the-same-material target=_blank>here’s the answer</a>)
+03;06;If black boxes survive air crashes – why don’t they make the whole plane out of that stuff?;George Carlin (and <a href='https://www.straightdope.com/21342059/if-aircraft-black-boxes-are-indestructible-why-can-t-the-whole-plane-be-made-from-the-same-material' target='_blank' rel='noopener noreferrer'>here’s the answer</a>)
 03;07;To most people, the sky is the limit. To those who love aviation, the sky is home.;Anonymous
-03;08;Women must pay for everything. They do get more glory than men for comparable feats, But, also, women get more notoriety when they crash.;Amelia Earhart (Happy <a href=https://en.wikipedia.org/wiki/International_Women%27s_Day target=_blank>International Women’s Day</a>)
+03;08;Women must pay for everything. They do get more glory than men for comparable feats, But, also, women get more notoriety when they crash.;Amelia Earhart (Happy <a href='https://en.wikipedia.org/wiki/International_Women%27s_Day' target='_blank' rel='noopener noreferrer'>International Women’s Day</a>)
 03;09;A commercial aircraft is a vehicle capable of supporting itself aerodynamically and economically at the same time.;William B. Stout, designer of the Ford Tri-Motor
 03;10;Most executives don’t have the stomach for this stuff.;Robert W. Baker, American Airlines
 03;11;My wings are a thousand books.;Gill Robb Wilson, American pilot
 03;12;Man’s flight through life is sustained by the power of his knowledge.;Austin ‘Dusty’ Miller, quote on Eagle & Fledgling statue, USAF Academy
 03;13;In thrust I trust.;cliché
-03;14;Flying a plane is no different from riding a bicycle. It’s just a lot harder to put baseball cards in the spokes.;Capt. Rex Kramer in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+03;14;Flying a plane is no different from riding a bicycle. It’s just a lot harder to put baseball cards in the spokes.;Capt. Rex Kramer in the 1980 movie <em><a href='/2005/08/movie-airplane.html'>Airplane!</a></em>
 03;15;Citation 123, if you quit calling me center, I’ll quit calling you twin Cessna.;actual transmission heard at the O’Hare TRACON
 03;16;Twenty-five per cent of the passengers of almost any aircraft show white knuckles on take-off.;Sir Colin Marshall, CEO British Airways
 03;17;Talking about airplanes is a very pleasant mental disease.;Sergei Sikorsky, <em>AOPA Pilot</em> magazine (2003)
@@ -85,7 +85,7 @@ const quotesData = `
 03;24;A free ride and free food are two of the three things no pilot ever turns down.;Dick Rutan
 03;25;You little fool! Don’t you know it is even dangerous to look at an airplane?;Gunner Morris, advice to Ann Barton, 1938 movie <em>Test Pilot</em>
 03;26;For a plane to fly well, it must be beautiful.;Marcel Dassault, founder of Dassault Aviation
-03;27;Did he not clear the runway, that Pan American?;Flight engineer William Schreuder, KLM (shortly before the <a href=https://en.wikipedia.org/wiki/Tenerife_airport_disaster>Tenerife collision</a>, Mar. 27, 1977)
+03;27;Did he not clear the runway, that Pan American?;Flight engineer William Schreuder, KLM (shortly before the <a href='https://en.wikipedia.org/wiki/Tenerife_airport_disaster' target='_blank' rel='noopener noreferrer'>Tenerife collision</a>, Mar. 27, 1977)
 03;28;You can be in London at 10 o’clock and in New York at 10 o’clock. I have never found another way of being in two places at once.;Sir David Frost, British journalist and Concorde regular
 03;29;I didn’t start out to chart the skies: it’s just no one had done it before.;E. B. Jeppesen, founder of namesake company of aviation charts
 03;30;Aviation is for grown men, alert, strong and above all capable of endurance.;Charles Turner, holder of many early aviation records
@@ -105,7 +105,7 @@ const quotesData = `
 04;13;If the Wright brothers were alive today, Wilbur would have to fire Orville to reduce costs.;Herb Kelleher, Southwest Airlines (1994)
 04;14;There are many excellent pilots who would rather do anything than land a private airplane at Newark, Cleveland, or Chicago.;<em>Aviation</em> magazine (August 1935)
 04;15;It doesn’t do any good to stand on the airplane’s brakes when you’re already on your back!;Rex Thorp
-04;16;We hope you enjoy the rest of your flight. By the way, is there anyone on board who knows how to fly a plane?;Passenger announcement in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+04;16;We hope you enjoy the rest of your flight. By the way, is there anyone on board who knows how to fly a plane?;Passenger announcement in the 1980 movie <em><a href='/2005/08/movie-airplane.html'>Airplane!</a></em>
 04;17;The Wright brothers’ design allowed them to survive long enough to learn how to fly.;Michael Potts, spokesman, Beech Aircraft, <em>New York Times</em> (1984)
 04;18;We have no effective screening methods to make sure pilots are sane.;Dr. Herbert Haynes, Federal Aviation Authority
 04;19;The odds against there being a bomb on a plane are a million to one, and against two bombs a million times a million to one. Next time you fly, cut the odds and take a bomb.;Benny Hill (died Apr. 19, 1992)
@@ -168,13 +168,13 @@ const quotesData = `
 06;15;The air is the only place free from prejudices.;Bessie Coleman (became first African-American plane pilot June 15, 1921)
 06;16;Remember the first principle of wing walking. Don’t let go of something unless you have a firm grip of something else.;Dick Truly, NASA administrator (2003)
 06;17;Work hard, fly hard, play hard, and stay…;cliché
-06;18;We have clearance, Clarence./<br>Roger, Roger. What’s our vector, Victor?;Flight crew in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+06;18;We have clearance, Clarence./<br>Roger, Roger. What’s our vector, Victor?;Flight crew in the 1980 movie <em><a href='/2005/08/movie-airplane.html'>Airplane!</a></em>
 06;19;I have to say that flying on Air Force One sort of spoils you for coach on a regular airline.;U.S. president Ronald Reagan
 06;20;I’ve said many times that I’d be thrilled to sell the airline to the employees and our guys said no, we’ll take all the money, anyway.;Robert L. Crandall, former president/chairman American Airlines (1997)
 06;21;Whenever competition is feasible it is, for all its imperfections, superior to regulation as a means of serving the public interest.;Alfred Kahn, airline economist and chairman CAB
 06;22;Think and act big and grow smaller, or think and act small and grow bigger.;Herb Kelleher, co-founder Southwest Airlines
 06;23;Anything that is white is sweet. Anything that is brown is meat. Anything that is grey, don’t eat.;Stephen Sondheim, about airline food, <em>Do I hear a Waltz</em> (1965)
-06;24;Ladies and gentleman, this is your captain speaking. We have a small problem. All 4 engines have stopped. We are doing our damnedest to get them going again. I trust you are not in too much distress.;Capt. Eric Moody, <a href=https://en.wikipedia.org/wiki/British_Airways_Flight_009>British Airways flight 009</a> (landed safely June 24, 1982)
+06;24;Ladies and gentleman, this is your captain speaking. We have a small problem. All 4 engines have stopped. We are doing our damnedest to get them going again. I trust you are not in too much distress.;Capt. Eric Moody, <a href='https://en.wikipedia.org/wiki/British_Airways_Flight_009' target='_blank' rel='noopener noreferrer'>British Airways flight 009</a> (landed safely June 24, 1982)
 06;25;Trust your captain …. but keep your seatbelt securely fastened.;cliché
 06;26;What I like best about flying is the freedom it affords to navigate an ocean of air and see the earth from a wider perspective. I never tire of the beauty of the earth by day or the sky by night.;Chesley 'Sully' Sullenbeger
 06;27;Code-sharing, alliances, and connections are all about ‘how do we screw the poor customer for more money?’;Michael O’Leary, Ryanair (2002)
@@ -188,7 +188,7 @@ const quotesData = `
 07;05;Airspeed, altitude, or brains: you always need at least two.;cliché
 07;06;In America there are two classes of travel: first class, and with children.;Robert Benchley, American humorist
 07;07;It seems to me that the conquest of the air is the only major task for our generation.;T.E. Lawrence, British army officer
-07;08;There is an art… to flying. The knack lies in learning how to throw yourself at the ground and miss.;Douglas Adams, <em>The Hitchhiker’s Guide to the Galaxy</em> (<a href=http://www.skygod.com/quotes/hitchhikers.html>full quote</a>)
+07;08;There is an art… to flying. The knack lies in learning how to throw yourself at the ground and miss.;Douglas Adams, <em>The Hitchhiker’s Guide to the Galaxy</em> (<a href='http://www.skygod.com/quotes/hitchhikers.html' target='_blank' rel='noopener noreferrer'>full quote</a>)
 07;09;People think it would be fun to be a bird because you could fly. But they forget the negative side, which is the preening.;Jack Handey, <em>Deep Thoughts from Saturday Night Live</em>
 07;10;Instrument flying is an unnatural act probably punishable by God.;Gordon Baxter, Texas radio personality
 07;11;If Beethoven had been killed in a plane crash at the age of 22, it would have changed the history of music… and of aviation.;Tom Stoppard, British playwright
@@ -197,26 +197,26 @@ const quotesData = `
 07;14;The trouble with predators is that they don’t know who’s the prey – until he’s dead.;Sir Freddie Laker, founder Laker Airways
 07;15;It’s like telling Mozart that there are too many notes in an opera. Which one do you want us to take out?;Gordon Bethune, Chairman Continental Airlines, about U.S. government saying carriers schedule too many flights (2002)
 07;16;Leave five on the glide, have a nice ride, tower inside, twenty-six nine …. see ya!;actual transmission heard at the O’Hare TRACON
-07;17;Where the water meets the sky, it was just fire.;Jarreau Israel, eyewitness to the crash of <a href=https://en.wikipedia.org/wiki/TWA_Flight_800 target=_blank>TWA flight 800</a> (July 17, 1996)
+07;17;Where the water meets the sky, it was just fire.;Jarreau Israel, eyewitness to the crash of <a href='https://en.wikipedia.org/wiki/TWA_Flight_800' target='_blank' rel='noopener noreferrer'>TWA flight 800</a> (July 17, 1996)
 07;18;Just got in from New York, where am I? I intended to fly to California.;Douglas ‘Wrong Way’ Corrigan, upon arrival in Ireland (July 18, 1938)
 07;19;Seagulls… slim yachts of the element.;Robinson Jeffers, American poet
 07;20;If anybody ever flied to the Moon, the very next day Trippe will ask the Civil Aeronautics Board to authorize regular service.;James M. Landis (first moon landing happened July 20, 1969)
 07;21;Americans love rising-from-the-ashes stories. They love the underdog coming back. We’re going to take a tarnished brand name and bring it back to a high degree of luster.;Martin R. Shugrue Jr., President-CEO Pan Am (1996)
-07;22;I think the least likely thing […] is mechanical. I mean, that’s just common sense.;James Kallstrom, chief of the FBI investigation of <a href=https://en.wikipedia.org/wiki/TWA_Flight_800 target=_blank>TWA flight 800</a> (1996)
-07;23;I wanted to soar through the air.;Yuji Nishizawa, after hijacking <a href=https://en.wikipedia.org/wiki/All_Nippon_Airways_Flight_61 target=_blank>ANA flight 61</a> and killing the captain to fly the plane himself (July 23, 1999)
+07;22;I think the least likely thing […] is mechanical. I mean, that’s just common sense.;James Kallstrom, chief of the FBI investigation of <a href='https://en.wikipedia.org/wiki/TWA_Flight_800' target='_blank' rel='noopener noreferrer'>TWA flight 800</a> (1996)
+07;23;I wanted to soar through the air.;Yuji Nishizawa, after hijacking <a href='https://en.wikipedia.org/wiki/All_Nippon_Airways_Flight_61' target='_blank' rel='noopener noreferrer'>ANA flight 61</a> and killing the captain to fly the plane himself (July 23, 1999)
 07;24;The nicer an airplane looks, the better it flies.;cliché
-07;25;Too late. No time, no.;Capt. Christian Marty, <a href=https://en.wikipedia.org/wiki/Air_France_Flight_4590 target=_blank>Air France flight 4590</a> Concorde (last recorded words after ATC warned him of fire July 25, 2000)
-07;26;Without doubt, Concorde died yesterday at the age of 31. All that will remain is the myth of a beautiful white bird.;<em>Le Figaro</em> editorial, following crash of <a href=https://en.wikipedia.org/wiki/Air_France_Flight_4590 target=_blank>Air France flight 4590</a>
+07;25;Too late. No time, no.;Capt. Christian Marty, <a href='https://en.wikipedia.org/wiki/Air_France_Flight_4590' target='_blank' rel='noopener noreferrer'>Air France flight 4590</a> Concorde (last recorded words after ATC warned him of fire July 25, 2000)
+07;26;Without doubt, Concorde died yesterday at the age of 31. All that will remain is the myth of a beautiful white bird.;<em>Le Figaro</em> editorial, following crash of <a href='https://en.wikipedia.org/wiki/Air_France_Flight_4590' target='_blank' rel='noopener noreferrer'>Air France flight 4590</a>
 07;27;It is clear to us all that a tyre burst alone should never cause a loss of a public-transport aircraft.;Sir Malcolm Field, head of Britain’s Civil Aviation Authority, about Concorde (2000)
 07;28;If you want more room Captain, push your seat back.;actual transmission heard at the O’Hare TRACON
 07;29;The three worst things to hear in the cockpit: The second officer says, ‘Oh shit!’ The first officer says, ‘I have an idea!’ The captain say, ‘Hey, watch this!’;anonymous
-07;30;Say, what’s a mountain goat doing way up here in a cloud bank?;Pilot in a <a href=http://2.bp.blogspot.com/_eimKP-f8QwA/SIfRbFHcRbI/AAAAAAAAALs/CBhlMAdrC1M/s1600-h/FarSide+1-14.jpg><em>Far Side</em> cartoon</a> by Gary Larson
+07;30;Say, what’s a mountain goat doing way up here in a cloud bank?;Pilot in a <a href='http://2.bp.blogspot.com/_eimKP-f8QwA/SIfRbFHcRbI/AAAAAAAAALs/CBhlMAdrC1M/s1600-h/FarSide+1-14.jpg' target='_blank' rel='noopener noreferrer'><em>Far Side</em> cartoon</a> by Gary Larson
 07;31;Angels can fly because they take themselves lightly.;G.K. Chesteron, <em>Orthodoxy</em> (1908)
 08;01;If a woman wants to fly, first of all she must, of course, abandon skirts and don a knickerbocker uniform.;Harriet Quimby (became the first woman in the U.S. to receive a pilot’s license on Aug. 1, 1911)
 08;02;But flies an eagle flight, bold and forth on, Leaving no tract behind.;William Shakespeare, <em>Timon of Athens</em>, Act i. Sc. 1.
 08;03;When asked ‘How was your flight?’ Well, aeronautically it was a great success. Socially it left quite a bit to be desired.;Noël Coward, English playwright
 08;04;Heavier-than-air flying machines are impossible.;Lord Kelvin, President of the Royal Society (1895)
-08;05;I know, but this guy doing the flying has no airline experience at all. He’s a menace to himself and everything else in the air… Yes, birds too.;Controller in the 1980 movie <em><a href=/2005/08/movie-airplane.html>Airplane!</a></em>
+08;05;I know, but this guy doing the flying has no airline experience at all. He’s a menace to himself and everything else in the air… Yes, birds too.;Controller in the 1980 movie <em><a href='/2005/08/movie-airplane.html'>Airplane!</a></em>
 08;06;Aerial flight is one of that class of problems with which man will never be able to cope.;Simon Newcomb, Canadian astronomer (1903)
 08;07;This is one hell of a good deal for United Airlines.;Richard Ferris, Chairman United Airlines, after buying Pan Am’s Far East route network
 08;08;Listen up gentlemen, or something’s gonna happen that none of us wants to see.;actual transmission heard at the O’Hare TRACON
@@ -253,7 +253,7 @@ const quotesData = `
 09;08;If Richard Branson had worn a pair of steel-rimmed glasses, a double-breasted suit and shaved off his beard, I would have taken him seriously. As it was I couldn’t.;Lord King, Chairman British Airways
 09;09;Yes I will succeed and I’ll make some money, unless I break my neck.;Eugène Lefebvre (shortly before fatal crash, Sep. 9 1909)
 09;10;I didn’t start the business to make a pile of money. I did it to preserve myself for old age.;E. B. Jeppesen, founder of namesake company of aviation charts
-09;11;Are you guys ready? Let’s roll.;Todd Beamer, passenger, <a href=https://en.wikipedia.org/wiki/United_Airlines_Flight_93 target=_blank>United flight 93</a>
+09;11;Are you guys ready? Let’s roll.;Todd Beamer, passenger, <a href='https://en.wikipedia.org/wiki/United_Airlines_Flight_93' target='_blank' rel='noopener noreferrer'>United flight 93</a>
 09;12;I knew he wasn’t real pilot material. He had actually studied his manuals and didn’t talk about girls.;Flight Instructor Clancy Prevost, about Zacarias Moussaoui, alleged ‘20<sup>th</sup> hijacker’ on 9/11 (2002
 09;13;What’s the sense of sending $2 million missiles to hit a $10 tent that’s empty?;President George W. Bush, Oval Office meeting (Sep. 13 2001)
 09;14;dear captain, […] I think your plane is good. thanks for a nice flight dont &#$% up the landing [sic];purported letter of 8-year old passenger
@@ -293,7 +293,7 @@ const quotesData = `
 10;18;In the early days it was fun to fly. You could soar over rooftops and trees, or drop down to meet a passing train and wave at the engineer. The whole sky belonged to you. now there are so many regulations. The sky is crowded. All the fun is gone.;Katherine Stinson, American aviation pioneer
 10;19;A little mountain will kill you just as dead as a big one if you fly into it.;Stephen Coonts
 10;20;It [flying] is not a bad sport, but there’s no place to go.;Glenn H. Curtiss, American aviation pioneer (1907)
-10;21;’Ice’ was a four-letter word to ATR pilots.;Stephen Fredrick, <em>Unheeded Warning: The Inside Story of <a href=https://en.wikipedia.org/wiki/American_Eagle_Flight_4184 target=_blank>American Eagle flight 4184</a></em>
+10;21;’Ice’ was a four-letter word to ATR pilots.;Stephen Fredrick, <em>Unheeded Warning: The Inside Story of <a href='https://en.wikipedia.org/wiki/American_Eagle_Flight_4184' target='_blank' rel='noopener noreferrer'>American Eagle flight 4184</a></em>
 10;22;II just whip out my blue card with a hole in it and read what it says: ‘When color of card matches color of sky, FLY!’;Gordon Baxter, Texas radio personality, in response to how he checked the weather
 10;23;I was engaged in what I believe to be the most thrilling industry in the world: aviation. My heart still leaps when I see a tiny two-seater plane soaring gracefully through the sky.;William A. Patterson, CEO United Airlines
 10;24;Total deregulation would allow anybody to fly any route, a situation that is unlikely ever to occur.;<em>New York Times Magazine</em>, 1976 (and the Airline Deregulation Act did it on Oct. 24, 1978)
@@ -303,19 +303,19 @@ const quotesData = `
 10;28;I didn’t take this job to preside over a bankruptcy. I refuse to accept that United Airlines is collateral damage from September 11.;Jack Creighton, new chairman and CEO of UAL Corp. (Oct. 28, 2001)
 10;29;It only takes two things to fly, airspeed and money.;cliché
 10;30;Out of this nettle, danger, we pluck this flower, safety.;William Shakespeare, <em>King Henry the Fourth</em>, Part One
-10;31;What’s happening, Gamil? What’s happening? What is this? What is this? Did you shut the engines? Pull. Pull with me. Pull with me. Pull with me.;Capt. Ahmed Mahmoud El Habashy, <a href=https://en.wikipedia.org/wiki/EgyptAir_Flight_990>EgyptAir flight 990</a> (crashed Oct. 31, 1999)
+10;31;In the year 2010, grandfathers are not going to want to say to their grandchildren: 'We used to cross the Atlantic in three and a half hours';Robert McKinlay, Chairman of British Aerospace Airbus Ltd.
 11;01;The airlines spell safety with a dollar sign and the FAA practices regulation by death.;Patricia Robertson Miller, <em>Chicago Sun-Times</em> (1979)
-11;02;I put the sweat of my life into this project, and if it’s a failure, I’ll leave the country and never come back.;Howard Hughes, about the <a href=https://en.wikipedia.org/wiki/Hughes_H-4_Hercules>Spruce Goose</a> (<sup>1st<sup> flight Nov 2 1947)
+11;02;I put the sweat of my life into this project, and if it’s a failure, I’ll leave the country and never come back.;Howard Hughes, about the <a href='https://en.wikipedia.org/wiki/Hughes_H-4_Hercules' target='_blank' rel='noopener noreferrer'>Spruce Goose</a> (<sup>1st<sup> flight Nov 2 1947)
 11;03;The bald eagle […] is a bird of bad character […], generally poor, and often very lousy. The turkey is a much more respectable bird, and withal a true original native of America.;Benjamin Franklin, regarding the choice for the bird of the USA
 11;04;Eagles may soar, but weasels never get sucked into jet air intakes;anonymous
-11;05;There are a lot of different parts of this airplane in a lot of different places.;Todd Inman, NTSB after the crash of <a href=https://en.wikipedia.org/wiki/UPS_Airlines_Flight_2976 target=_blank>UPS flight 2976</a> (Nov. 5, 2025)
+11;05;There are a lot of different parts of this airplane in a lot of different places.;Todd Inman, NTSB after the crash of <a href='https://en.wikipedia.org/wiki/UPS_Airlines_Flight_2976' target='_blank' rel='noopener noreferrer'>UPS flight 2976</a> (Nov. 5, 2025)
 11;06;No flying machine will ever fly from New York to Paris [because] no known motor can run at the requisite speed for four days without stopping.;Orville Wright (circa 1908)
 11;07;This is earth again, the earth where I’ve lived and now will live once more. I’ve been to eternity and back. I know how the dead would feel to live again.;Charles Lindbergh, on sighting Ireland after solo Atlantic crossing
 11;08;When the art of radio communication between pilots and ATC is improved, the result will be vastly increased areas of significant misunderstandings.;Robert Livingston, <em>Flying The Aeronca</em>
 11;09;Climb like you’re life depends on it… because it does.;actual transmission heard at the O’Hare TRACON
 11;10;We have to make you think it’s an important seat – because you’re in it.;Donald Burr, founder of People Express
 11;11;There are pilots and there are pilots: with the good ones, it is inborn. You can’t teach it. If you are a fighter pilot, you have to be willing to take risks.;General Robin Olds, USAF (Happy Remembrance Day)
-11;12;Hang onto it. Hang onto it.;Capt. Edward States, <a href=https://en.wikipedia.org/wiki/American_Airlines_Flight_587 target=_blank>American flight 587</a> (last recorded words, crashed Nov. 12, 2001)
+11;12;There is still a newness about air travel, and, though statistics demonstrate its safety, the psychological effect of having a girl on board is enormous.;1935 airline magazine commenting on the addition of stewardesses
 11;13;Rule one: No matter what else happens, fly the airplane.;cliché
 11;14;The devil himself had probably redesigned Hell in the light of information he had gained from observing airport layouts.;Anthony Price, <em>The Memory Trap</em> (1989)
 11;15;The wish to be able to fly is to be understood as nothing else than a longing to be capable of sexual performance.;Sigmund Freud
@@ -331,7 +331,7 @@ const quotesData = `
 11;25;The owner’s guide that comes with a $500 refrigerator makes more sense than the one that comes with a $50 million airliner.;cliché
 11;26;If you don’t get in that plane you’ll regret it. Maybe not today, maybe not tomorrow, but soon and for the rest of your life.;Rick Blaine, 1942 movie <em>Casablanca</em>
 11;27;These days no one can make money on the goddamn airline business. The economics represent sheer hell.;C.R. Smith, President American Airlines
-11;28;I don’t like this.;Flight Engineer Gordon Brooks, <a href=https://en.wikipedia.org/wiki/Mount_Erebus_disaster target=_blank>Air New Zealand flight 901</a> (last recorded words before GPWS alarm, crashed Nov. 28, 1979)
+11;28;XXXXX
 11;29;The similarity between air traffic controllers and pilots? If a pilot screws up, the pilot dies. If ATC screws up, the pilot dies.;cliché
 11;30;Anybody can jump a motorcycle. The trouble begins when you try to land it.;Evel Knievel, stunt performer (passed away Nov. 30, 2007)
 12;01;ATTENTION! Aircraft Designers, Operators, Airmen, Managers. Anxiety never disappears in a human being in an airplane. It merely remains dormant when there is no cause to arouse it. Our challenge is to keep it forever dormant.;Harold Harris, VP Pan Am (circa 1950)
@@ -354,7 +354,7 @@ const quotesData = `
 12;18;They done it! They done it! Damned if they ain’t flew.;Johnny Moore, shouted while running to the village of Kitty Hawk (Dec. 17, 1903)
 12;19;The course of the flight up and down was exceedingly erratic, partly due to the irregularity of the air, and partly to lack of experience in handling this machine.;Orville Wright, about first flight
 12;20;I confess that in 1901, I said to my brother Orville that man would not fly for fifty years. Ever since, I have distrusted myself and avoided all predictions.;Wilbur Wright, speech to Aero Club of France (1908)
-12;21;Twenty years for 270 murders is less than a month per victim. It’s just not right.;Peter Lowenstein, father of victim of <a href=https://en.wikipedia.org/wiki/Pan_Am_Flight_103 target=_blank>Lockerbie bombing</a> (Dec. 21 1988), on the conviction of Abdel al-Megrahi
+12;21;Twenty years for 270 murders is less than a month per victim. It’s just not right.;Peter Lowenstein, father of victim of <a href='https://en.wikipedia.org/wiki/Pan_Am_Flight_103' target='_blank' rel='noopener noreferrer'>Lockerbie bombing</a> (Dec. 21 1988), on the conviction of Abdel al-Megrahi
 12;22;Have you ever observed a humming-bird moving about in an aerial dance among the flowers – a living prismatic gem. It is a creature of such fairy-like loveliness as to mock all description.;W.H. Hudson, Argentine author
 12;23;The air around London and other large cities will be darkened by the flight of aeroplanes. They are not mere dreamers who hold that the time is at hand when air power will be an even more important thing than sea power.;<em>Daily Mail</em> (1906)
 12;24;À vaincre sans péril, on triomphe sans gloire. (We triumph without glory when we conquer without danger.);Pierre Corneille, <em>Le Cid</em>
