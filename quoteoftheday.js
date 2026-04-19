@@ -107,7 +107,7 @@ const quotesData = `
 04;15;It doesn’t do any good to stand on the airplane’s brakes when you’re already on your back!;Rex Thorp
 04;16;We hope you enjoy the rest of your flight. By the way, is there anyone on board who knows how to fly a plane?;Passenger announcement in the 1980 movie <em><a href='/2005/08/movie-airplane.html'>Airplane!</a></em>
 04;17;The Wright brothers’ design allowed them to survive long enough to learn how to fly.;Michael Potts, spokesman, Beech Aircraft, <em>New York Times</em> (1984)
-04;18;We have no effective screening methods to make sure pilots are sane.;Dr. Herbert Haynes, Federal Aviation Authority
+04;18;We have no effective screening methods to make sure pilots are sane.;Dr. Herbert Haynes, FAA
 04;19;The odds against there being a bomb on a plane are a million to one, and against two bombs a million times a million to one. Next time you fly, cut the odds and take a bomb.;Benny Hill (died Apr. 19, 1992)
 04;20;If it ain’t broke, don’t fix it. If it ain’t fixed, don’t fly it.;cliché
 04;21;What’s the hurry? Are you afraid I won’t come back?;Manfred von Richthofen, ‘The Red Baron’ (last words, when being asked for autograph Apr. 21, 1918)
