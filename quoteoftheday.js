@@ -156,7 +156,7 @@ const quotesData = `
 06;03;Put your compass on ‘E’ and get out of my airspace.;actual transmission heard at the O’Hare TRACON
 06;04;This book is dedicated to all those who fell by the airside, for nothing is wasted, and every apparent failure is but a challenge to others.;Dedication to <em>Sky Roads of the World</em>, Amy Johnson (1939)
 06;05;It only takes five years to go from rumor to standard operating procedure.;Dick Markgraf
-06;06;The quality of food is in inverse proportion to a dining room’s altitude, especially atop bank and hotel buildings (airplanes are an extreme example).;Bryan Miller, <em>New York Times</em> restaurant critic
+06;06;No one has ever felt better after eating plane food. I think people only eat it because they’re bored. I don't eat on planes. I like to arrive hungry.;Anthony Bourdain, American celebrity chef
 06;07;Aviate, Navigate, Communicate.;cliché
 06;08;It can hardly be a coincidence that no language on Earth has ever produced the phrase, ‘as pretty as an airport.’ Airports are ugly. Some are very ugly. Some attain a degree of ugliness that can only be the result of a special effort.;Douglas Adams, <em>The Long Dark Tea-Time of the Soul</em>
 06;09;Americans have an abiding belief in their ability to control reality by purely material means: airline insurance replaces the fear of death with the comforting prospect of cash.;Cecil Beaton, <em>It Gives Me Great Pleasure</em> (1955)
@@ -305,7 +305,7 @@ const quotesData = `
 10;30;Out of this nettle, danger, we pluck this flower, safety.;William Shakespeare, <em>King Henry the Fourth</em>, Part One
 10;31;In the year 2010, grandfathers are not going to want to say to their grandchildren: 'We used to cross the Atlantic in three and a half hours';Robert McKinlay, Chairman of British Aerospace Airbus Ltd.
 11;01;The airlines spell safety with a dollar sign and the FAA practices regulation by death.;Patricia Robertson Miller, <em>Chicago Sun-Times</em> (1979)
-11;02;I put the sweat of my life into this project, and if it’s a failure, I’ll leave the country and never come back.;Howard Hughes, about the <a href='https://en.wikipedia.org/wiki/Hughes_H-4_Hercules' target='_blank' rel='noopener noreferrer'>Spruce Goose</a> (<sup>1st<sup> flight Nov 2 1947)
+11;02;I put the sweat of my life into this project, and if it’s a failure, I’ll leave the country and never come back.;Howard Hughes, about the <a href='https://en.wikipedia.org/wiki/Hughes_H-4_Hercules' target='_blank' rel='noopener noreferrer'>Spruce Goose</a> (<sup>1st</sup> flight Nov 2 1947)
 11;03;The bald eagle […] is a bird of bad character […], generally poor, and often very lousy. The turkey is a much more respectable bird, and withal a true original native of America.;Benjamin Franklin, regarding the choice for the bird of the USA
 11;04;Eagles may soar, but weasels never get sucked into jet air intakes;anonymous
 11;05;There are a lot of different parts of this airplane in a lot of different places.;Todd Inman, NTSB after the crash of <a href='https://en.wikipedia.org/wiki/UPS_Airlines_Flight_2976' target='_blank' rel='noopener noreferrer'>UPS flight 2976</a> (Nov. 5, 2025)
