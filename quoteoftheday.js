@@ -305,7 +305,7 @@ const quotesData = `
 10;30;Out of this nettle, danger, we pluck this flower, safety.;William Shakespeare, <em>King Henry the Fourth</em>, Part One
 10;31;In the year 2010, grandfathers are not going to want to say to their grandchildren: 'We used to cross the Atlantic in three and a half hours';Robert McKinlay, Chairman of British Aerospace Airbus Ltd.
 11;01;The airlines spell safety with a dollar sign and the FAA practices regulation by death.;Patricia Robertson Miller, <em>Chicago Sun-Times</em> (1979)
-11;02;I put the sweat of my life into this project, and if it’s a failure, I’ll leave the country and never come back.;Howard Hughes, about the <a href='https://en.wikipedia.org/wiki/Hughes_H-4_Hercules' target='_blank' rel='noopener noreferrer'>Spruce Goose</a> (<sup>1st</sup> flight Nov 2 1947)
+11;02;I put the sweat of my life into this project, and if it’s a failure, I’ll leave the country and never come back.;Howard Hughes, about the <a href='https://en.wikipedia.org/wiki/Hughes_H-4_Hercules' target='_blank' rel='noopener noreferrer'>Spruce Goose</a> (1<sup>st</sup> flight Nov 2 1947)
 11;03;The bald eagle […] is a bird of bad character […], generally poor, and often very lousy. The turkey is a much more respectable bird, and withal a true original native of America.;Benjamin Franklin, regarding the choice for the bird of the USA
 11;04;Eagles may soar, but weasels never get sucked into jet air intakes;anonymous
 11;05;There are a lot of different parts of this airplane in a lot of different places.;Todd Inman, NTSB after the crash of <a href='https://en.wikipedia.org/wiki/UPS_Airlines_Flight_2976' target='_blank' rel='noopener noreferrer'>UPS flight 2976</a> (Nov. 5, 2025)
